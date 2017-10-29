@@ -1,4 +1,4 @@
 # springcloud
 
 
-This is a prototype for building a Spring cloud projects.
+This is a prototype for building a Spring cloud projects
