@@ -10,7 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>config-server</module>
-        <module>comfidiscovery</module>
+        <module>config-server</module>
         <module>gateway</module>
         <module>discovery</module>
         <module>book-service</module>
